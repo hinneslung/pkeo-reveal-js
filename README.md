@@ -1,1 +1,1 @@
-1. `http-server .`
+`http-server .` or ` forever start -c http-server .`
